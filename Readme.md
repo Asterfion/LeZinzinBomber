@@ -1,4 +1,5 @@
 # **👾LeZinzinBomber - 1.0**
+![LeZinzinBomber](https://github.com/user-attachments/assets/9db9efff-8d9f-4bc2-85f6-a803d9af7042)
 
 
 # **🔥 BY LeZinzin 🔥**
@@ -14,10 +15,10 @@
 ## **How to Use on Windows**
 
 ### 🚀 **Launching:**  
-Once LeZinzinBomber is installed, launch it using the **Launch-Win.bat** file like this: 
+Once LeZinzinBomber is installed, launch it using the **Start.bat** file like this: 
 
 ```
-start.bat
+Start.bat
 ```
 
 ---
@@ -37,8 +38,8 @@ To install and run LeZinzinBomber on Linux, follow these magical commands 🪄:
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/LeZinzin/LeZinzin-Bomber.git
-cd LeZinzin-Bomber/
+git clone https://github.com/LeZinzin/LeZinzinBomber.git
+cd LeZinzinBomber/
 python3 LeZinzin-Bomber.py
 ```
 If the installations don't work on Linux, use this 🪄:
@@ -46,8 +47,8 @@ Or launch it manually.
 ```
 sudo apt update
 sudo apt install python python-pip git -y
-git clone https://github.com/LeZinzin/LeZinzin-Bomber.git
-cd LeZinzin-Bomber/
+git clone https://github.com/LeZinzin/LeZinzinBomber.git
+cd LeZinzinBomber/
 python LeZinzin-Bomber.py
 ```
 
