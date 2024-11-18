@@ -13,18 +13,11 @@
 
 ## **How to Use on Windows**
 
-### 🔧 **Installation:**  
-If you're on Windows, start by executing the **Install-Win.bat** file below: 
-
-```
-Install-Win.bat
-```
-
 ### 🚀 **Launching:**  
 Once LeZinzinBomber is installed, launch it using the **Launch-Win.bat** file like this: 
 
 ```
-Launch-Win.bat
+start.bat
 ```
 
 ---
