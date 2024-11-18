@@ -39,7 +39,7 @@ To install and run LeZinzinBomber on Linux, follow these magical commands 🪄:
 sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/LeZinzin/LeZinzinBomber.git
-cd LeZinzinBomber/
+cd LeZinzinBomber-main/
 python3 LeZinzin-Bomber.py
 ```
 If the installations don't work on Linux, use this 🪄:
@@ -48,7 +48,7 @@ Or launch it manually.
 sudo apt update
 sudo apt install python python-pip git -y
 git clone https://github.com/LeZinzin/LeZinzinBomber.git
-cd LeZinzinBomber/
+cd LeZinzinBomber-main/
 python LeZinzin-Bomber.py
 ```
 
