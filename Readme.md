@@ -5,7 +5,7 @@
 # **🔥 BY Asterfion🔥**
 
 **👾 GitHub:**  
-**[LeZinzin](https://github.com/LeZinzin)**  
+**[LeZinzin](https://github.com/Asterfion)**  
 **🏆 THE ULTIMATE EMAIL BOMBER! 🏆**
 
 # **🔧 ! INSTALL PYTHON TO USE THIS SCRIPT ! 🔧**
@@ -38,7 +38,7 @@ To install and run LeZinzinBomber on Linux, follow these magical commands 🪄:
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/LeZinzin/LeZinzinBomber.git
+git clone https://github.com/Asterfion/LeZinzinBomber.git
 cd LeZinzinBomber-main/
 python3 LeZinzin-Bomber.py
 ```
@@ -47,7 +47,7 @@ Or launch it manually.
 ```
 sudo apt update
 sudo apt install python python-pip git -y
-git clone https://github.com/LeZinzin/LeZinzinBomber.git
+git clone https://github.com/Asterfion/LeZinzinBomber.git
 cd LeZinzinBomber-main/
 python LeZinzin-Bomber.py
 ```
@@ -57,7 +57,7 @@ python LeZinzin-Bomber.py
 ## **For More Information**
 
 For additional details about this project, check out the GitHub page:  
-**[LeZinzin-Bomber](https://github.com/LeZinzin)**
+**[LeZinzin-Bomber](https://github.com/Asterfion)**
 
 ---
 
