@@ -2,7 +2,7 @@
 ![LeZinzinBomber](https://github.com/user-attachments/assets/9db9efff-8d9f-4bc2-85f6-a803d9af7042)
 
 
-# **🔥 BY LeZinzin 🔥**
+# **🔥 BY Asterfion🔥**
 
 **👾 GitHub:**  
 **[LeZinzin](https://github.com/LeZinzin)**  
