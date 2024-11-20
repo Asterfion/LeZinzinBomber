@@ -1,4 +1,4 @@
-# By @LeZinzin - Version 1.0 
+# By @Asterfion- Version 1.0 
 # Github : https://github.com/LeZinzin
 # Thanks for using my tools !
 
